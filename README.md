@@ -4,6 +4,7 @@ The COVID-19 pandemic has brought significant challenges to global economies, wi
 Project Objectives:
 
 1.Analyze the overall trend of unemployment rate before and during the COVID-19 pandemic.
+
 2.Identify specific industries or sectors that experienced the highest increase in unemployment.
 3.Investigate the geographical variations in unemployment rates across different regions 
 4.Determine the relationship between other economic indicators (e.g., GDP, stock market performance) and unemployment rate changes.
