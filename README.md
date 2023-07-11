@@ -68,4 +68,5 @@ b.Calculate correlation coefficients and visualize the associations using scatte
 c.Develop predictive models (e.g., time series forecasting) to estimate future unemployment rates based on historical data.
 
 Conclusion:
+
 By undertaking this data science project, I aim to gain valuable insights into the impact of COVID-19 on unemployment rates. Through data analysis and visualization, we can better understand the patterns, trends, and relationships associated with unemployment during this challenging period. These findings can contribute to informed decision-making by policymakers, economists, and individuals alike, and help shape effective strategies for mitigating the impact of similar crises in the future.
